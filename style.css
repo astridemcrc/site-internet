@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+
+h1{
+	color : lightslategrey;
+	font-family: 'Playfair Display', serif;
+	font-size: 32px;
+}
+h2 {
+	color : lightslategrey;
+	font-size: 24px;
+}
+h3 {
+	color: lightslategrey;
+	font-size: 24px;
+}
+h4 {
+	color: lightslategrey;
+	font-size: 24px;
+}
+
+body {
+	background-color: lightgrey;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+div{
+	width: 75vw;
+	margin: 24px auto;
+	background-color: white;
+	padding: 24px 48px;
+	border-radius: 10px;
+	box-shadow: black 1px 1px 1px 1px;
+}
+
+img {
+	border-radius: 50%;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+
+i{
+	font-size: 42px;
+	color: black;
+}
+
+.button-blue {
+	padding: 16px;
+	background-color: blueviolet;
+	border-radius: 7px;
+	color : white;
+	border: solid 1px blueviolet;
+}
+
+.button-blue:hover {
+	background-color: white ;
+	color : blueviolet;
+	transition: 0.3s;
+}
+
+#introduction-text {
+	margin-bottom: 40px;
+}
+
+.list-inline li {
+	display: inline;
+}
+
+.list-inline {
+	padding: 0;
+}
+
+.fa-instagram {
+	padding: 2px;
+	background-color: deeppink;
+	border-radius: 4px;
+	color : white;
+}
+.fa-instagram:hover{
+	background-color: white;
+	color: deeppink;
+	transition: 0.2s;
+}
+
+.fa-facebook-square {
+	padding: 2px;
+	background-color: royalblue;
+	border-radius: 4px;
+	color : white;
+}
+.fa-facebook-square:hover {
+	background-color: white;
+	color: royalblue;
+	transition: 0.2s;	
+}
+
+.fa-linkedin {
+	padding: 2px;
+	background-color: darkblue;
+	border-radius: 4px;
+	color : white;	
+}
+.fa-linkedin:hover{
+	background-color: white;
+	color: darkblue;
+	transition: 0.2s;		
+}
+.
